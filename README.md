@@ -5,3 +5,5 @@ O projeto trata da leitura de dados oriundos de veiculos a venda nos Estados Uni
 
 Além disso, o link para acesso no render é:
 https://sprint-4-fourth-project.onrender.com
+
+O código é interessante e me permitiu criar dois gráficos interativos no render sendo um de histograma e o outro de dispersão.
