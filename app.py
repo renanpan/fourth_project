@@ -6,6 +6,8 @@ import plotly_express as px
 car_data = pd.read_csv('vehicles.csv') # lendo os dados
 hist_button = st.button('Criar histograma') #criar um botão
 
+print(car_data.head())
+
 if hist_button: # se o botão for clicado
          # escrever uma mensagem
          st.write('Criando um histograma para o conjunto de dados de anúncios de vendas de carros')
