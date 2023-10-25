@@ -7,3 +7,6 @@ Além disso, o link para acesso no render é:
 https://sprint-4-fourth-project.onrender.com
 
 O código é interessante e me permitiu criar dois gráficos interativos no render sendo um de histograma e o outro de dispersão.
+
+
+Obs: Não entendi se dá para executar o arquivo EDA por aqui.
