@@ -3,7 +3,7 @@ import pandas as pd
 import plotly_express as px
 
 
-car_data = pd.read_csv('/workspaces/fourth_project/vehicles.csv') # lendo os dados
+car_data = pd.read_csv('vehicles.csv') # lendo os dados
 
 if hist_button: # se o botão for clicado
          # escrever uma mensagem
